@@ -1,4 +1,4 @@
-<FilesMatch "\.(js)$">
+<FilesMatch "\.(json)$">
 Header /.well-known/nostrgames.json Access-Control-Allow-Origin "*"
 Header /.well-known/nostrgames.json Access-Control-Allow-Headers "*"
 Header /.well-known/nostrgames.json Access-Control-Allow-Methods "GET"
